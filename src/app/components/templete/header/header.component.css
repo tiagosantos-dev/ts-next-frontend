@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700,900&display=swap');
+
+.header{
+  display: flex;
+  align-items: center;
+ 
+}
+.header a{
+    text-decoration: none;
+    color: #000;
+
+}
+.header h1{
+    display: flex;
+    align-items: center;
+    font-size: 1.8em;
+    max-height: 32px;
+}
+.header .title-group{
+    padding-left: 25px;
+}
+.header .title-group i{
+    padding-right: 2px;
+}
+
